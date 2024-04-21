@@ -1,0 +1,4 @@
+#ignoring all fails .log
+*.log
+#ignoring all fails .dll
+*.dll
